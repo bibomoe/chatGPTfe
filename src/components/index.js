@@ -6,3 +6,4 @@ export { default as Navbar } from './navbar/Navbar';
 
 export { default as NavbarMain } from './navbarMain/NavbarMain';
 export { default as Juknis } from './juknis/Juknis';
+export { default as Login } from './login/Login';
